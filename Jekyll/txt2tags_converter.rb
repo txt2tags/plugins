@@ -1,7 +1,8 @@
-# _plugins/txt2tags_converter.rb
-
 # https://github.com/txt2tags/plugins
 # by Aurelio Jargas, MIT Licensed
+
+# Instructions:
+# Save this file inside the _plugins folder for your Jekyll site
 
 module Jekyll
 	class Txt2tagsConverter < Converter
