@@ -30,7 +30,7 @@ The first post (`.md`) will be converted to HTML by Markdown, the others will us
 	layout: post
 	---
 
-	The first sentence, using [txt2tags http://tx2tags.org] markup.
+	The first sentence, using [txt2tags http://txt2tags.org] markup.
 
 
 ## Have fun
