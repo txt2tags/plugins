@@ -1,6 +1,6 @@
 ;;; t2t-mode.el --- txt2tags mode
 
-;; Copyright (C) 2016-2021 by Jean Louis
+;; Copyright (C) 2014-2021 by Leslie Harlley Watter
 
 ;; Author: Leslie Harlley Watter
 ;; Version: 0.1
